@@ -8,10 +8,6 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://portswigger.net/cms/images/72/03/07d853a64725-article-220705-burp-suite-icon.png" />  
-<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Metasploit_logo_and_wordmark.svg/2560px-Metasploit_logo_and_wordmark.svg.png" />  
-<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nmap_logo.svg" />
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -24,5 +20,4 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" />
 <br />
