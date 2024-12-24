@@ -29,7 +29,6 @@
 ---
 
 ### 🧰 Languages and Tools
-<p align="center">
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -71,6 +70,5 @@
   <img alt="Redis" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-</p>
 
 <br />
