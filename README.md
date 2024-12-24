@@ -8,7 +8,7 @@
 <h3>Co-Founder of <a href="https://alashwas.online/" target="_blank">Alashwas</a></h3>
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="50">
+    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="80">
     <div style="width: 2px; height: 100px; background-color: #e2e8f0;"></div>
   </div>
   <div style="display: flex; flex-direction: column; gap: 15px;">
