@@ -5,8 +5,7 @@
 👋 Hi, I'm a second-year engineering student at the National Institute of Applied Science and Technology (INSAT), specializing in Networks and Telecommunications. I am passionate about cybersecurity and ethical hacking, with a strong focus on penetration testing. As an active Capture the Flag (CTF) player with notable achievements, I’m always ready to take on new challenges and keep growing my skills.
 
 ---
-<h3>Co-Founder of <a href="https://alashwas.online/" target="_blank">Alashwas</a></h3>
-<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+## Co-Founder of [Alashwas](https://alashwas.online/)<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="80">
     <div style="width: 2px; height: 100px; background-color: #e2e8f0;"></div>
@@ -16,12 +15,8 @@
       Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
     </p>
     <div style="display: flex; gap: 10px;">
-     <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
-      </a>
-      <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-      </a>
+    [![Facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/AlashwasSec)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/company/alashwas)
     </div>
   </div>
 </div>
@@ -30,7 +25,7 @@
 ---
 
 ### 🧰 Languages and Tools
-
+<div style="display: flex; gap: 20px; margin: 20px 0;">
 <img align="left" alt="Java" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -53,7 +48,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30px" height="30px" style="padding:10px;"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30px" height="30px" style="padding:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30px" height="30px" style="padding:10px;"/>
-
+<div/>
 
 
 
