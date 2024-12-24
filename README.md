@@ -13,12 +13,10 @@
     <p style="margin-bottom: 15px;">
       Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
     </p>
-    
     <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block; padding: 8px 20px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="20" style="vertical-align: middle;">
       <span style="margin-left: 5px; color: #333;">Alashwas Facebook</span>
     </a>
-    
     <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block; padding: 8px 20px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
       <span style="margin-left: 5px; color: #333;">Alashwas LinkedIn</span>
