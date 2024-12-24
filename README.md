@@ -6,18 +6,26 @@
 
 ---
 <h3>Co-Founder of <a href="https://alashwas.online/" target="_blank">Alashwas</a></h3>
-<p>
-    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="100" style="display: block; margin-bottom: 10px;">
-    Currently developing <strong>Alashwas</strong>, a cybersecurity learning platform with high-quality courses and diverse CTF challenges.
-    <a href="https://www.facebook.com/AlashwasSec" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" 
-             alt="Facebook" width="30" style="margin-right: 10px;">
+<div align="center">
+  <a href="https://alashwas.online/" target="_blank">
+    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="200" style="margin-bottom: 20px;">
+  </a>
+  
+  <p style="margin: 20px 0;">
+    Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
+  </p>
+
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; display: inline-block;">
+    <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" 
+           alt="Facebook" width="40" style="vertical-align: middle;">
     </a>
-    <a href="https://www.linkedin.com/company/alashwas" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-             alt="LinkedIn" width="30">
+    <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+           alt="LinkedIn" width="40" style="vertical-align: middle;">
     </a>
-</p>
+  </div>
+</div>
 
 ---
 
