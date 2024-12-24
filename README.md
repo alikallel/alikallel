@@ -15,8 +15,12 @@
       Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
     </p>
     <div style="display: flex; gap: 10px;">
-    [![Facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/AlashwasSec)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/company/alashwas)
+  <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+      </a>
+      <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+      </a>
     </div>
   </div>
 </div>
@@ -25,7 +29,7 @@
 ---
 
 ### 🧰 Languages and Tools
-<div style="display: flex; gap: 20px; margin: 20px 0;">
+<div style="display: flex; gap: 20px; margin: 20px 10px;">
 <img align="left" alt="Java" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
