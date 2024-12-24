@@ -9,6 +9,14 @@
 <p>
     <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="100" style="display: block; margin-bottom: 10px;">
     Currently developing <strong>Alashwas</strong>, a cybersecurity learning platform with high-quality courses and diverse CTF challenges.
+    <a href="https://www.facebook.com/AlashwasSec" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" 
+             alt="Facebook" width="30" style="margin-right: 10px;">
+    </a>
+    <a href="https://www.linkedin.com/company/alashwas" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+             alt="LinkedIn" width="30">
+    </a>
 </p>
 
 ---
