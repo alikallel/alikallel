@@ -6,23 +6,22 @@
 
 ---
 <h3>Co-Founder of <a href="https://alashwas.online/" target="_blank">Alashwas</a></h3>
-<div align="center">
-  <a href="https://alashwas.online/" target="_blank">
-    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="200" style="margin-bottom: 20px;">
-  </a>
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="100" style="margin-right: 20px;">
   
-  <p style="margin: 20px 0;">
-    Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
-  </p>
-
-  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; display: inline-block;">
-    <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="text-decoration: none; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" 
-           alt="Facebook" width="40" style="vertical-align: middle;">
+  <div>
+    <p style="margin-bottom: 15px;">
+      Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
+    </p>
+    
+    <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block; padding: 8px 20px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="20" style="vertical-align: middle;">
+      <span style="margin-left: 5px; color: #333;">Alashwas Facebook</span>
     </a>
-    <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="text-decoration: none; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-           alt="LinkedIn" width="40" style="vertical-align: middle;">
+    
+    <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block; padding: 8px 20px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
+      <span style="margin-left: 5px; color: #333;">Alashwas LinkedIn</span>
     </a>
   </div>
 </div>
