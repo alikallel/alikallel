@@ -16,13 +16,11 @@
       Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
     </p>
     <div style="display: flex; gap: 10px;">
-      <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-flex; align-items: center; padding: 8px 16px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none; border: 1px solid #e2e8f0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="20">
-        <span style="margin-left: 8px; color: #4a5568;">Alashwas Facebook</span>
+     <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
       </a>
-      <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-flex; align-items: center; padding: 8px 16px; background-color: #f8f9fa; border-radius: 5px; text-decoration: none; border: 1px solid #e2e8f0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
-        <span style="margin-left: 8px; color: #4a5568;">Alashwas LinkedIn</span>
+      <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
       </a>
     </div>
   </div>
