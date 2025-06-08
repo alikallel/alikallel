@@ -9,7 +9,7 @@
 ### 💻 What I Do
 CTF Competitor: Active participant in international Capture the Flag (CTF) competitions with multiple top finishes.
 
-Web Penetration Tester: Hands-on experience identifying and exploiting web vulnerabilities through CTFs, lab setups, and real-world assessments
+Web Penetration Tester: Hands-on experience identifying and exploiting web vulnerabilities through CTFs, lab setups, and real-world assessments.
 
 Technical Leader: Co-founder of [Alashwas](https://alashwas.online/), an innovative cybersecurity learning platform providing high-quality courses and diverse CTF challenges.
 
