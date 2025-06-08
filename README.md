@@ -5,26 +5,13 @@
 👋 Hi, I'm a second-year engineering student at the National Institute of Applied Science and Technology (INSAT), specializing in Networks and Telecommunications. I am passionate about cybersecurity and ethical hacking, with a strong focus on penetration testing. As an active Capture the Flag (CTF) player with notable achievements, I’m always ready to take on new challenges and keep growing my skills.
 
 ---
-## Co-Founder of [Alashwas](https://alashwas.online/)<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://alashwas.com/public/images/Alashwas.png" alt="Alashwas Logo" width="80">
-    <div style="width: 2px; height: 100px; background-color: #e2e8f0;"></div>
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 15px;">
-    <p style="margin: 0;">
-      Currently developing <strong>Alashwas</strong>, an innovative cybersecurity learning platform offering high-quality courses and diverse CTF challenges.
-    </p>
-    <div style="display: flex; gap: 10px;">
-  <a href="https://www.facebook.com/AlashwasSec" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
-      </a>
-      <a href="https://www.linkedin.com/company/alashwas" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-      </a>
-    </div>
-  </div>
-</div>
 
+### 💻 What I Do
+CTF Competitor: Active participant in international Capture the Flag (CTF) competitions with multiple top finishes.
+
+Web Penetration Tester: Hands-on experience identifying and exploiting web vulnerabilities through CTFs, lab setups, and real-world assessments
+
+Technical Leader: Co-founder of [Alashwas](https://alashwas.online/), an innovative cybersecurity learning platform providing high-quality courses and diverse CTF challenges.
 
 ---
 
@@ -71,6 +58,20 @@
   <img alt="Redis" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  &nbsp;&nbsp;&nbsp; 
+ <img alt="Elasticsearch" width="30px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" /> &nbsp;&nbsp;&nbsp; <img alt="Logstash" width="30px" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" /> &nbsp;&nbsp;&nbsp; <img alt="Kibana" width="30px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" /> &nbsp;&nbsp;&nbsp;
+ <img alt="nmap" width="30px" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Burp Suite" width="30px" src="https://img.icons8.com/?size=100&id=41078&format=png&color=FC8719" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Metasploit" width="30px" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Wireshark" width="30px" src="https://img.icons8.com/?size=100&id=vECpai5R423e&format=png&color=000000" />
 </p>
 
 <br />
+
+---
+
+🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/kallel-ali) | [Portfolio](https://alikallel.github.io/) | [Alashwas](https://alashwas.online/) | [X](https://x.com/_alikallel)
