@@ -16,4 +16,4 @@ Technical Leader: Co-founder of [Alashwas](https://alashwas.com/), an innovative
 ---
 
 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/kallel-ali) | [Portfolio](https://alikallel.github.io/) | [Alashwas](https://alashwas.online/) | [X](https://x.com/_alikallel)
+[LinkedIn](https://www.linkedin.com/in/kallel-ali) | [Portfolio](https://alikallel.github.io/) | [Alashwas](https://alashwas.com/) | [X](https://x.com/_alikallel)
